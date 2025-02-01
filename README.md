@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SCI-GSO website](https://sci-gso.netlify.app/)
 
-- 🌱 I’m currently learning **System Dessign**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shiva1325](https://github.com/Shiva1325)
 
