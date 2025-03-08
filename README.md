@@ -12,7 +12,8 @@
 - 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/15yRxc5KSHvyVoGbMEi6CkbdxiJKAcxbJ/view?usp=drive_link)
 
 <h3 align="left">Leetcode Stats:</h3>
-![Leetcode Stats](https://leetcard.jacoblin.cool/starlord_c)
+<p><img align="left" src="![Leetcode Stats](https://leetcard.jacoblin.cool/starlord_c)" alt="Leetcode Stats" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
