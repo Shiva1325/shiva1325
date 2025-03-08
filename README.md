@@ -11,10 +11,10 @@
 
 - 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/15yRxc5KSHvyVoGbMEi6CkbdxiJKAcxbJ/view?usp=drive_link)
 
-## 🚀 LeetCode Journey  
-Sharpening my problem-solving skills, one challenge at a time! 
+<h3 align="left">Leetcode Stats:</h3>  
 <br>  
 <img align="left" src="https://leetcard.jacoblin.cool/starlord_c?ext=heatmap" alt="Leetcode Stats" />
+
 
 
 
