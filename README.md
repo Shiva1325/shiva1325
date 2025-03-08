@@ -11,6 +11,10 @@
 
 - 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/15yRxc5KSHvyVoGbMEi6CkbdxiJKAcxbJ/view?usp=drive_link)
 
+<h3 align="left">Leetcode Stats:</h3>
+![Leetcode Stats](https://leetcard.jacoblin.cool/starlord_c)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shiva-sai-kumar-patibandla-515453120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiva-sai-kumar-patibandla-515453120/" height="30" width="40" /></a>
