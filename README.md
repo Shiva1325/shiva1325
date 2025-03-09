@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [Shiva1325 Github Repo](https://github.com/Shiva1325)
+- 👨‍💻 All of my projects are available in [Github Repo](https://github.com/Shiva1325)
 
 - 📫 How to reach me **kumar.shivasai8@gmail.com**
 
