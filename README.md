@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shiva1325](https://github.com/Shiva1325)
+- 👨‍💻 All of my projects are available at [Shiva1325 Github Repo](https://github.com/Shiva1325)
 
 - 📫 How to reach me **kumar.shivasai8@gmail.com**
 
-- 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/15yRxc5KSHvyVoGbMEi6CkbdxiJKAcxbJ/view?usp=drive_link)
+- 📄 Know about my experiences [Link to Resume](https://shiva1325.github.io/Resume/)
 
 <h3 align="left">🚀 Leetcode Stats:</h3>  
 
