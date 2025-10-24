@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **kumar.shivasai8@gmail.com**
 
-- 📄 Know about my experiences [Link to Resume](https://shiva1325.github.io/Resume/)
-
 <h3 align="left">🚀 Leetcode Stats:</h3>  
 
 <br>  
